@@ -1,0 +1,40 @@
+.my-component-container {
+   margin-top: 50px;
+    margin-left: 280px;
+    margin-right: 280px;
+  }
+  
+  .disease-container {
+    border: 3px solid #007bff;
+    padding: 1rem;
+    margin: 1rem 0;
+  }
+  
+  .disease-name {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .medicine-container {
+    border: 2px solid #6c757d;
+    padding: 1rem;
+    margin: 1rem 0;
+  }
+  
+  .medicine-name {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
+  .med-time-container {
+    border: 1px solid #17a2b8;
+    padding: 1rem;
+    margin: 1rem 0;
+  }
+  
+  .reminder-container {
+    border: 3px solid #28a745;
+    padding: 1rem;
+    margin: 1rem 0;
+  }
+  

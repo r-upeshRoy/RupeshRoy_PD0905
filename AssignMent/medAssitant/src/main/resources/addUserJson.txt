@@ -1,0 +1,35 @@
+{
+    "name": "King",
+    "email": "k@x.com",
+    "password": "abc",
+    "gender" : "Male",
+    "age" : "65",
+    "mobileNumber": "123456",
+    "diseases": [
+        {
+            "diseaseName": "diabetes",
+            "diseaseDescription" : "dasfdfadsfjl",
+            "medicines":[
+                { "medicineName": "med1", "medTimes": [  
+                    {"dateTime": "2023-06-11T10:30:00"}, {"dateTime": "2023-06-11T14:30:00"}
+                ]},
+                { "medicineName": "med2", "medTimes": [  
+                    {"dateTime": "2023-06-11T11:30:00"}, {"dateTime": "2023-06-11T15:30:00"}
+                ] }
+            ]
+        },
+         {
+            "diseaseName": "BloodPressure",
+            "diseaseDescription" : "qwertyuiou",
+            "medicines":[
+                { "medicineName": "med1", "medTimes": [  
+                    {"dateTime": "2023-06-11T10:30:00"}, {"dateTime": "2023-06-11T14:30:00"}
+                ]},
+                { "medicineName": "med2", "medTimes": [  
+                    {"dateTime": "2023-06-11T11:30:00"}, {"dateTime": "2023-06-11T15:30:00"}
+                ] }
+            ]
+        }
+    ]
+
+}
